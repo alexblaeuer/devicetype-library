@@ -1,0 +1,40 @@
+---
+manufacturer: Cisco
+model: IOSv L2
+slug: iosv-l2
+part_number: IOSv-L2
+is_full_depth: false
+u_height: 1
+interfaces:
+  - name: GigabitEthernet0/0
+    type: 1000base-t
+  - name: GigabitEthernet0/1
+    type: 1000base-t
+  - name: GigabitEthernet0/2
+    type: 1000base-t
+  - name: GigabitEthernet0/3
+    type: 1000base-t
+  - name: GigabitEthernet1/0
+    type: 1000base-t
+  - name: GigabitEthernet1/1
+    type: 1000base-t
+  - name: GigabitEthernet1/2
+    type: 1000base-t
+  - name: GigabitEthernet1/3
+    type: 1000base-t
+  - name: GigabitEthernet2/0
+    type: 1000base-t
+  - name: GigabitEthernet2/1
+    type: 1000base-t
+  - name: GigabitEthernet2/2
+    type: 1000base-t
+  - name: GigabitEthernet2/3
+    type: 1000base-t
+  - name: GigabitEthernet3/0
+    type: 1000base-t
+  - name: GigabitEthernet3/1
+    type: 1000base-t
+  - name: GigabitEthernet3/2
+    type: 1000base-t
+  - name: GigabitEthernet3/3
+    type: 1000base-t

@@ -1,0 +1,16 @@
+---
+manufacturer: Cisco
+model: IOSv L3
+slug: iosv-l3
+part_number: IOSv-L3
+is_full_depth: false
+u_height: 1
+interfaces:
+  - name: GigabitEthernet0/0
+    type: 1000base-t
+  - name: GigabitEthernet0/1
+    type: 1000base-t
+  - name: GigabitEthernet0/2
+    type: 1000base-t
+  - name: GigabitEthernet0/3
+    type: 1000base-t
