@@ -1,0 +1,10 @@
+---
+manufacturer: Cisco
+model: Catalyst 9800-CL-K9
+slug: cisco-c9800-cl-k9
+part_number: C9800-CL-K9
+description: Cisco Catalyst 9800-CL Wireless Controller for Cloud
+comments: '[Cisco Catalyst 9800-CL Wireless Controller for Cloud Data Sheet](https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9800-cl-wireless-controller-cloud/nb-06-cat9800-cl-cloud-wirel-data-sheet-ctp-en.html)'
+u_height: 0
+exclude_from_utilization: true
+is_full_depth: false
